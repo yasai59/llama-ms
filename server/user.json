@@ -1,0 +1,10 @@
+[
+  {
+    "id": "6815e719ad6ee8f2a421204f",
+    "profile": "{\"user\":{\"_id\":\"6815e719ad6ee8f2a421204f\",\"name\":\"pedro\",\"last_name\":\"sanchez\",\"email\":\"pedrosanchez@gmail.com\",\"password\":\"$2a$10$WGXn7cDUKxsfmqJtB5acDOnH9p04Iu6dlvSfula5FMBD3BKKwOk2m\",\"risk_score\":0,\"financial_score\":0},\"transactions\":[{\"_id\":0,\"user_id\":\"6815e719ad6ee8f2a421204f\",\"type\":\"entry\",\"Amount\":10,\"date\":\"2025-04-25\",\"symbol\":\"\"},{\"_id\":0,\"user_id\":\"6815e719ad6ee8f2a421204f\",\"type\":\"buy\",\"Amount\":5,\"date\":\"2025-01-20\",\"symbol\":\"TSLA\"},{\"_id\":0,\"user_id\":\"6815e719ad6ee8f2a421204f\",\"type\":\"entry\",\"Amount\":1500,\"date\":\"2025-02-22\",\"symbol\":\"\"},{\"_id\":0,\"user_id\":\"6815e719ad6ee8f2a421204f\",\"type\":\"buy\",\"Amount\":1,\"date\":\"2025-03-28\",\"symbol\":\"SQQQ\"},{\"_id\":0,\"user_id\":\"6815e719ad6ee8f2a421204f\",\"type\":\"entry\",\"Amount\":4000,\"date\":\"2025-01-01\",\"symbol\":\"\"},{\"_id\":0,\"user_id\":\"6815e719ad6ee8f2a421204f\",\"type\":\"buy\",\"Amount\":1,\"date\":\"2025-05-20\",\"symbol\":\"NVDA\"},{\"_id\":0,\"user_id\":\"6815e719ad6ee8f2a421204f\",\"type\":\"save\",\"Amount\":300,\"date\":\"2025-10-10\",\"symbol\":\"\"}],\"position\":{\"total_buys\":7,\"total_sells\":0,\"total_saves\":300,\"total_entry\":5510,\"net_market\":7,\"net_balance\":5817}}"
+  },
+  {
+    "id": "6815b93d41c43e54971ca550",
+    "profile": "{\"user\":{\"_id\":\"6815b93d41c43e54971ca550\",\"name\":\"alejandro\",\"last_name\":\"vidal_casado\",\"email\":\"alexvidalcasado@gmail.com\",\"password\":\"$2a$10$hvFK7xNepGbqFtsS8a/.MO/.l0kTyWTAb.Asba8im9qj7N8xvVJzu\",\"risk_score\":0,\"financial_score\":0},\"transactions\":[{\"_id\":0,\"user_id\":\"6815b93d41c43e54971ca550\",\"type\":\"entry\",\"Amount\":10,\"date\":\"2025-04-25\",\"symbol\":\"\"},{\"_id\":0,\"user_id\":\"6815b93d41c43e54971ca550\",\"type\":\"entry\",\"Amount\":-10,\"date\":\"2025-04-25\",\"symbol\":\"\"}],\"position\":{\"total_buys\":0,\"total_sells\":0,\"total_saves\":0,\"total_entry\":0,\"net_market\":0,\"net_balance\":0}}"
+  }
+]
