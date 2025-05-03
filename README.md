@@ -1,15 +1,9 @@
 # llama-ms
 
-To install dependencies:
+Microservice resposnible of comunication with ollama model for the AI Finance Project
+By Marc Arcedo Alvaro && Alejandro Vidal Casado
 
-```bash
-bun install
-```
+- [Frontend](https://github.com/yasai59/Finance-AI-frontend)
+- [Backend](https://github.com/arcedo/financial-ai-backend)
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.11. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Made with <3 for the Revolut challenge at HackUPC2025
