@@ -6,5 +6,13 @@
   {
     "id": "6815b93d41c43e54971ca550",
     "profile": "{\"user\":{\"_id\":\"6815b93d41c43e54971ca550\",\"name\":\"alejandro\",\"last_name\":\"vidal_casado\",\"email\":\"alexvidalcasado@gmail.com\",\"password\":\"$2a$10$hvFK7xNepGbqFtsS8a/.MO/.l0kTyWTAb.Asba8im9qj7N8xvVJzu\",\"risk_score\":0,\"financial_score\":0},\"transactions\":[{\"_id\":0,\"user_id\":\"6815b93d41c43e54971ca550\",\"type\":\"entry\",\"Amount\":10,\"date\":\"2025-04-25\",\"symbol\":\"\"},{\"_id\":0,\"user_id\":\"6815b93d41c43e54971ca550\",\"type\":\"entry\",\"Amount\":-10,\"date\":\"2025-04-25\",\"symbol\":\"\"}],\"position\":{\"total_buys\":0,\"total_sells\":0,\"total_saves\":0,\"total_entry\":0,\"net_market\":0,\"net_balance\":0}}"
+  },
+  {
+    "id": "681658f86811fa436eab8b89",
+    "profile": "{\"user\":{\"_id\":\"681658f86811fa436eab8b89\",\"name\":\"jaume\",\"last_name\":\"clot\",\"email\":\"no@no.no\",\"password\":\"$2a$10$Jn37CMXFgzZ95pmbQIflMuYDVkE5dfKFyCFsHT6sLYrvFdZIw4s52\",\"risk_score\":0,\"financial_score\":0},\"transactions\":[{\"_id\":0,\"user_id\":\"681658f86811fa436eab8b89\",\"type\":\"buy\",\"Amount\":1,\"date\":\"2000-12-12\",\"symbol\":\"SQQQ\"},{\"_id\":0,\"user_id\":\"681658f86811fa436eab8b89\",\"type\":\"save\",\"Amount\":1000,\"date\":\"2003-10-10\",\"symbol\":\"\"},{\"_id\":0,\"user_id\":\"681658f86811fa436eab8b89\",\"type\":\"entry\",\"Amount\":2000,\"date\":\"2010-02-05\",\"symbol\":\"\"}],\"position\":{\"total_buys\":1,\"total_sells\":0,\"total_saves\":1000,\"total_entry\":2000,\"net_market\":1,\"net_balance\":3001}}"
+  },
+  {
+    "id": "68165a94006fbbbbceeeee4c",
+    "profile": "{\"user\":{\"_id\":\"68165a94006fbbbbceeeee4c\",\"name\":\"some\",\"last_name\":\"test\",\"email\":\"some@test.com\",\"password\":\"$2a$10$EX0hTJIJI27krnfGIZf3UuyMe4B2B7QvJHI056cm1Gzwwn2M4WSUy\",\"risk_score\":0,\"financial_score\":0},\"transactions\":null,\"position\":{\"total_buys\":0,\"total_sells\":0,\"total_saves\":0,\"total_entry\":0,\"net_market\":0,\"net_balance\":0}}"
   }
 ]

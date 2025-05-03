@@ -108,7 +108,7 @@ class Llama {
     your task is to analyze that data and see what is the best action for the user: 1. Buy, 2. Sell, 3. Hold, 4. Don't buy, 5. Asset not recommended for the user. When the user asks: what should I do whith this asset? 
     you have to answer only with the number of the action you choose. Nothing else, nothing more. You have to be very careful with the data you are analyzing,
     because if you give a wrong recommendation, it could cause a lot of problems to the user. ${userJson} ${news}
-    IT'S VERY IMPORTANT THAT YOU GIVE ONLY A NUMBER, NOTHING LESS NOTHING MORE, IF YOU DON'T KNOW WHAT TO ANSWER, JUST SAY 1`;
+    IT'S VERY IMPORTANT THAT YOU GIVE ONLY A NUMBER, NOTHING LESS NOTHING MORE, IF YOU DON'T KNOW WHAT TO ANSWER, JUST SAY 1. Remember, if the user doesn't have the asset, can't hold it or sell it`;
 
     const response = await this.chat([
       { role: "system", content: sysmessage },
